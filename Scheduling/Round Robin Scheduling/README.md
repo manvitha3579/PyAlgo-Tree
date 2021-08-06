@@ -44,14 +44,13 @@ Round robin scheduling (RRS) is a preemptive algorithm that is considered to be 
        
 ## Output
 ![image](https://user-images.githubusercontent.com/71583695/128535125-661ecd04-237e-4996-8e39-62ef1da420d8.png)
-Image Pathlink : https://github.com/manvitha3579/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/images/Round_Robin_Scheduling_output1.jpeg
+Image Pathlink : https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/Images/Round_Robin_Scheduling_output1.jpeg
 
 ![image](https://user-images.githubusercontent.com/71583695/128535299-7696bae2-6b09-424a-831c-1eefdeb71cb6.png)
-Image Pathlink : https://github.com/manvitha3579/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/images/Round_Robin_Scheduling_output2.jpeg
+Image Pathlink : https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/Images/Round_Robin_Scheduling_output2.jpeg
 
 ![image](https://user-images.githubusercontent.com/71583695/128535385-45761369-bb16-44b0-ae50-37e4f568ffb8.png)
-Image Pathlink : https://github.com/manvitha3579/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/images/Round_Robin_Scheduling_output3.jpeg
-
+Image Pathlink : https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/Scheduling/Round%20Robin%20Scheduling/Images/Round_Robin_Scheduling_output3.jpeg
 
 ## Author:
 [Manvitha Chowdary](https://github.com/manvitha3579)
